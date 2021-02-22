@@ -71,4 +71,4 @@ Code/
 ```
 ----
 ### Licence
-MIT
+CC BY-NC-ND license: http://creativecommons.org/licenses/by-nc-nd/4.0/
